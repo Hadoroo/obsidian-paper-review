@@ -20,6 +20,7 @@
 - TOTAL 2304
 - After removing duplicates 
 	- Sciencedirect (837)
-	- IEEExplore (1224)
+	- IEEExplore (1109)
+	- Total (1946)
 - [[Emotion Recognition/_List Paper|_List Paper]]
 
