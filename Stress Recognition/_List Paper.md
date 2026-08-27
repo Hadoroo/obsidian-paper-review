@@ -1,0 +1,12 @@
+---
+
+excel-pro-plugin: parsed
+
+---
+```sheet
+{"id":"rWY3Qs","sheetOrder":["-6HZAYCfXFR3U4sGnJggB"],"name":"Stress Recognition/_List Paper.md","appVersion":"0.25.0","locale":"enUS","styles":{"tR48Cy":{"ff":"Arial","fs":11,"it":0,"bl":0,"ul":{"s":0},"st":{"s":0},"ol":{"s":0},"tr":{"a":0,"v":0},"td":0,"ht":0,"vt":0,"tb":0,"pd":{"t":0,"r":2,"b":2,"l":2}}},"sheets":{"-6HZAYCfXFR3U4sGnJggB":{"id":"-6HZAYCfXFR3U4sGnJggB","name":"Sheet1","tabColor":"","hidden":0,"rowCount":1000,"columnCount":20,"zoomRatio":1,"freeze":{"xSplit":0,"ySplit":0,"startRow":-1,"startColumn":-1},"scrollTop":0,"scrollLeft":0,"defaultColumnWidth":88,"defaultRowHeight":24,"mergeData":[],"cellData":{"1":{"1":{"v":"Tahun","t":1},"2":{"v":"Dataset","t":1},"3":{"v":"Speech","t":1},"4":{"v":"Video","t":1},"5":{"v":"Text","t":1},"6":{"v":"Physiological","t":1},"7":{"v":"Multimodal","t":1},"8":{"v":"Feature","t":1},"9":{"v":"Model","t":1},"10":{"v":"Feature Fusion","t":1},"11":{"v":"Model Fusion","t":1},"12":{"v":"Decision Fusion","t":1},"13":{"v":"Ensemble","t":1},"14":{"v":"Accuracy","t":1},"15":{"v":"F1-Score","t":1},"16":{"v":"Comparison","t":1},"17":{"v":"Link","t":1}}},"rowData":{},"columnData":{"6":{"w":97.7078857421875},"10":{"w":106.66998291015625},"11":{"w":96.07585144042969},"12":{"w":112.36788940429688}},"showGridlines":1,"rowHeader":{"width":46,"hidden":0},"columnHeader":{"height":20,"hidden":0},"rightToLeft":0}},"resources":[{"name":"SHEET_UNIVER_THREAD_COMMENT_PLUGIN","data":"{}"},{"name":"SHEET_RANGE_PROTECTION_PLUGIN","data":""},{"name":"SHEET_AuthzIoMockService_PLUGIN","data":"{}"},{"name":"SHEET_WORKSHEET_PROTECTION_PLUGIN","data":"{}"},{"name":"SHEET_WORKSHEET_PROTECTION_POINT_PLUGIN","data":"{}"},{"name":"SHEET_DRAWING_PLUGIN","data":"{}"},{"name":"SHEET_CONDITIONAL_FORMATTING_PLUGIN","data":""},{"name":"SHEET_OUTGOING_LINK_PLUGIN","data":"{\"-6HZAYCfXFR3U4sGnJggB\":[]}"},{"name":"SHEET_NOTE_PLUGIN","data":"{}"},{"name":"SHEET_DEFINED_NAME_PLUGIN","data":""},{"name":"SHEET_RANGE_THEME_MODEL_PLUGIN","data":"{}"},{"name":"SHEET_DATA_VALIDATION_PLUGIN","data":"{\"-6HZAYCfXFR3U4sGnJggB\":[]}"},{"name":"SHEET_FILTER_PLUGIN","data":"{}"},{"name":"SHEET_TABLE_PLUGIN","data":"{}"}]}
+```
+
+```multiSheet
+{"tabs":[{"key":"sheet","type":"sheet","label":"Sheet"}],"defaultActiveKey":"sheet"}
+```

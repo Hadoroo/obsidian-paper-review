@@ -1,0 +1,305 @@
+{
+  "main": {
+    "id": "6e640c4112c582fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "1244a6e80fdddb6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fe76906e49c73ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stress/Multimodal Approaches for Stress Recognition (A Comparative Study Using the StressID Dataset).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Multimodal Approaches for Stress Recognition (A Comparative Study Using the StressID Dataset)"
+            }
+          },
+          {
+            "id": "809cd03f299fee84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stress/Multimodal Approaches for Stress Recognition (A Comparative Study Using the StressID Dataset).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Multimodal Approaches for Stress Recognition (A Comparative Study Using the StressID Dataset)"
+            }
+          },
+          {
+            "id": "c5a27ac7a5945f8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stress Recognition/Multimodal Approaches for Stress Recognition (A Comparative Study Using the StressID Dataset).md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Multimodal Approaches for Stress Recognition (A Comparative Study Using the StressID Dataset)"
+            }
+          },
+          {
+            "id": "01deba64c440558e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SLR Reference.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SLR Reference"
+            }
+          },
+          {
+            "id": "7445186b604ed246",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stress Recognition/_SLR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_SLR"
+            }
+          },
+          {
+            "id": "8dde9e6d2306f890",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Emotion Recognition/_SLR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_SLR"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "451d5c1066b8d929",
+    "type": "split",
+    "children": [
+      {
+        "id": "eac4ebf32e8fa716",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db7428e98716e2df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "41c463f2794513b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "1657d32e33c22a57",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "51a3f4aeb3bc215d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7cdb04f9e64fce6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54e3e990349d69b0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Stress/Stress Detection/Enhanced Stress Detection Using Heart Rate Variability (A Hybrid Deep Learning and Machine Learning Approach).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Enhanced Stress Detection Using Heart Rate Variability (A Hybrid Deep Learning and Machine Learning Approach)"
+            }
+          },
+          {
+            "id": "1540f45ce82ea626",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "b838559fb56c6ecf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c4c8edb20b3f9812",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b45ed34ba9af25ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Emotion Recognition/_SLR.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "7cf4a83257b7df96",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "sheet-plus:Create excel file": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "8dde9e6d2306f890",
+  "lastOpenFiles": [
+    "Emotion Recognition/_List Paper.md",
+    "Emotion Recognition/_SLR.md",
+    "Stress Recognition/_List Paper.md",
+    "Stress Recognition/_SLR.md",
+    "Emotion Recognition",
+    "Paper Review Template.md",
+    "Stress Recognition/Machine learning-based detection of workplace stress using wearable and multimodal data  (a systematic literature review).md",
+    "Stress Recognition/Multimodal Approaches for Stress Recognition (A Comparative Study Using the StressID Dataset).md",
+    "Stress Recognition/Stress Detection Systems (A Comprehensive Review of Text, Speech, and Image-Based Approaches Using Machine Learning).md",
+    "Stress Recognition/_List.base",
+    "isi Paper.md",
+    "Excel 2026-08-08 18.31.33.univer.md",
+    "Untitled.base",
+    "Stress/Enhanced Stress Detection Using Heart Rate Variability (A Hybrid Deep Learning and Machine Learning Approach).md",
+    "2026/08/07.md",
+    "Untitled.canvas",
+    "2026/08",
+    "2026",
+    "Untitled 1.canvas",
+    "Stress/Stress Recognition",
+    "Stress Recognition",
+    "2026-08-01.md",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Welcome.md",
+    "create a link.md",
+    "Stress/Stress Detection"
+  ]
+}

@@ -1,0 +1,3 @@
+- SLR metode prisma
+- Komparasi dari yang terbaik hasil slr
+- Pengembangan dari hasil komparasi
